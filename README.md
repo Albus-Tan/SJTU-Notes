@@ -17,6 +17,10 @@ CHFS Labs：[Chfs-File-System](https://github.com/Albus-Tan/Chfs-File-System)
 
 > SE125 - 机器学习
 
+Notes：[SJTU-SE125-ML-notes](./SJTU-SE125-ML-notes/机器学习笔记.pdf)
+
+Final cheatsheet：[SJTU-SE125-ML-cheatsheet](./SJTU-SE125-ML-notes/机器学习期末精简版.pdf)
+
 ## Compliers
 
 > SE3355 - 编译原理
@@ -46,3 +50,9 @@ ChCore Labs：[Chcore](https://github.com/Albus-Tan/Chcore)
 Notes：[SJTU-SE3336-SoftwareTesting-notes](./SJTU-SE3336-SoftwareTesting-notes/软件测试笔记.pdf)
 
 Final cheatsheet：[SJTU-SE3336-SoftwareTesting-cheatsheet](./SJTU-SE3336-SoftwareTesting-notes/软件测试期末考试备考.pdf)
+
+## Cloud OS
+
+> SE3356 - 云操作系统设计与实践
+
+Minik8s Project：[Minik8s](https://github.com/Albus-Tan/Minik8s)
