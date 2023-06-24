@@ -1,7 +1,11 @@
 # SJTU-Notes
 My personal notes and labs of SJTU SE courses.
 
-**Archiving in progress（归档整理中）**
+**Archiving in progress（归档整理中），star ⭐ and watch 👀 the project if you find it helpful !**
+
+- Labs & Projects：实验和项目代码
+- Notes：课程笔记（对于开卷课程，以笔者当年经验均可以达到卷面全覆盖）
+- cheatsheet ⭐：用于期末开卷考试的精简版本（基本可以达到考点精准命中）
 
 ## CSE
 
@@ -39,3 +43,6 @@ ChCore Labs：[Chcore](https://github.com/Albus-Tan/Chcore)
 
 > SE3336 - 软件测试
 
+Notes：[SJTU-SE3336-SoftwareTesting-notes](./SJTU-SE3336-SoftwareTesting-notes/软件测试笔记.pdf)
+
+Final cheatsheet：[SJTU-SE3336-SoftwareTesting-cheatsheet](./SJTU-SE3336-SoftwareTesting-notes/软件测试期末考试备考.pdf)
