@@ -23,7 +23,7 @@ Compiler Project：[TigerCompiler](https://github.com/Albus-Tan/TigerCompiler)
 
 > SE3353 - 应用体系架构
 
-Notes：[SJTU-SE3353-AEA-notes](./SJTU-SE3353-AEA-notes/应用系统体系架构笔记)
+Notes：[SJTU-SE3353-AEA-notes](./SJTU-SE3353-AEA-notes/应用系统体系架构笔记.pdf)
 
 Bookstore Project：[Bookstore-frontend](https://github.com/Albus-Tan/Bookstore-frontend)，[Bookstore-backend](https://github.com/Albus-Tan/Bookstore-backend)
 
